@@ -15,6 +15,7 @@ A clear and concise description of what the bug is.
 
 ## To Reproduce
 
+A [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).
 A [codesandbox](https://codesandbox.io/examples/package/i18next) example or similar
 or at least steps to reproduce the behavior:
 
