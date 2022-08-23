@@ -6,6 +6,6 @@ Search also on [StackOverflow](https://stackoverflow.com/) or similar.
 
 #### Are you sure this is an issue with locize?
 
-Issues should only be posted in this repository after you have been able to [reproduce](https://stackoverflow.com/help/minimal-reproducible-example) them and confirm that they are a bug or incorrect/missing information in the [docs](https://docs.locize.com).
+Issues should only be posted in this repository after you have been able to [reproduce](https://minimum-reproduction.wtf/) them and confirm that they are a bug or incorrect/missing information in the [docs](https://docs.locize.com).
 
 Maybe your issue is more related to [i18next.com](https://www.i18next.com), if so please open an issue [here](https://github.com/i18next/i18next/issues).
