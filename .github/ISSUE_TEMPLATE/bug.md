@@ -4,7 +4,7 @@ about: Create a report to help us improve
 ---
 
 <!--
-Before you submit an issue we recommend you visit [docs](https://docs.locize.com/) or [i18next docs](https://www.i18next.com/) or [react-i18next docs](https://react.i18next.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/i18next) or similar and ask any questions you have or mention any problems you've had getting started with locize or i18next.
+Before you submit an issue we recommend you visit the [Locize docs](https://www.locize.com/docs), the [i18next docs](https://www.i18next.com) (react-i18next, next-i18next and i18next-cli included) or [StackOverflow](https://stackoverflow.com/questions/tagged/i18next) and ask any questions you have or mention any problems you've had getting started with Locize or i18next.
 
 **Please read this entire template before posting any issue. If you ignore these instructions and post an issue here that does not follow the instructions, your issue might be closed, locked.**
 -->

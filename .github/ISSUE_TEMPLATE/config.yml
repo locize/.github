@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: 💬 Questions / Help
     url: https://www.locize.com/docs/general-questions
-    about: If you have questions, please check https://www.locize.com/docs/general-questions or https://www.i18next.com/ or https://react.i18next.com/ or https://stackoverflow.com/ or similar or send an email to support@locize.com
+    about: If you have questions, please check https://www.locize.com/docs/general-questions or https://www.i18next.com or https://stackoverflow.com/questions/tagged/i18next or similar or send an email to support@locize.com

@@ -6,7 +6,7 @@ The repositories in this organization contain the open-source SDKs, integrations
 
 Please do **not** report security vulnerabilities through public GitHub issues.
 
-Email **support@locize.com** — vulnerability reports are treated with priority. This is also the right address for security issues affecting the Locize service itself (app, API, CDN).
+Email **support@locize.com**; vulnerability reports are treated with priority. This is also the right address for security issues affecting the Locize service itself (app, API, CDN).
 
 Where enabled, you can also use GitHub's private vulnerability reporting: open the **Security** tab of the affected repository and click **Report a vulnerability**.
 
